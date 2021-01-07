@@ -46,7 +46,7 @@ jinja2-htmlmin==0.1.3
 lamson==1.3.4
 limits==1.2.1
 lockfile==0.12.2
-lxml==3.5.0
+lxml==4.6.2
 Mako==1.0.6
 Markdown==2.6.8
 MarkupSafe==1.0
